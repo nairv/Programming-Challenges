@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 /**
  * Created by vineet on 6/24/14.
+ * This is a problem related to http://en.wikipedia.org/wiki/Collatz_conjecture
+ *
  */
 public class Collatz {
   public static int find(int j){
